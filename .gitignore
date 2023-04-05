@@ -1,0 +1,19 @@
+# IAR Embedded Workbench generated dirs/files
+settings/
+Debug/
+*.dep
+*.ewt
+
+# IAR Visual State user (*) generated files
+VisualState/Workspace.vnw.*.vsviewinfo
+VisualState/Workspace.vsp.*.vsviewinfo
+VisualState/Workspace.vsp.*.vsgaviewinfo
+VisualState/Workspace_System1.*.vsgaviewinfo
+**/VisualState_Demo/VisualState_Demo.*.user
+
+# IAR Visual State code generator dirs
+VS_coder/
+.metadata/
+.vs/
+bin/
+obj/

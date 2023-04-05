@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NavigatorWorkspace Explanation="">
+
+  <Project Active="true" ActiveCoder="CCoder" File="Workspace.vsp">
+    <Report Creator="3" File="verificator_report.vre"/>
+    <Report Creator="0" File="coder\vscoder.cre"/>
+    <Report Creator="2" File="doc\Workspace.rtf"/>
+    <Report Creator="0" File="..\Workspace\VisualState_Demo\src\VS_coder\vscoder.cre"/>
+    <Report Creator="0" File="..\Workspace\VisualState_Demo\VS_coder\vscoder.cre"/>
+    <Report Creator="0" File="..\Java_Workspace\VisualState_Demo\VS_coder\vscoder.cre"/>
+  </Project>
+
+</NavigatorWorkspace>

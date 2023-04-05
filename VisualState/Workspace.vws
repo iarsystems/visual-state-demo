@@ -1,0 +1,82 @@
+[Header]
+Filetype=IAR Visual State Validator workspace
+Revision=3
+[ProjectSetup]
+ProjectFile=Workspace.vsp
+Variant=
+IncludeExcluded=FALSE
+AutoQueue=FALSE
+TimerMsg=TRUE
+PromptActions=FALSE
+System1=000000000000000001F97331000000009E
+System1_RL=000000000000000001F97331000000009E
+NofBreakPoints=0
+[RealLink Setup]
+Plugin Module=
+Timeout=7471215
+[Altia Properties]
+Timeout=8000
+Arguments=-xrm Altia*AltiaScene*background:#f7e400
+ResetAtConnect=1
+ResetOnReset=1
+[Trace Setup]
+Trace To=
+Trace Output=
+[Windows]
+nofSystemWnds=1
+nofEventWnds=1
+nofVariableWnds=1
+nofGuardWnds=0
+nofActionWnds=1
+nofSignalWnds=1
+nofTSF=0
+nofDynamicAnalyzeWnds=0
+nofStaticAnalyzeWnds=0
+[SystemWnd_0]
+WindowPlacement=2C0000000000000001000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000000092010000400100002403000018
+RealLink View=Off
+NofTrees=1
+Tree_0_System=System1
+Tree_0_Topstate=TopLevelStateMachine1
+OnlyCurrent=False
+ShowPrevious=False
+[EventWnd_0]
+WindowPlacement=2C0000000000000001000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000000000004001000092010000F1
+RealLink View=Off
+nofColumns=3
+ColumnData2_0=000000006400000064
+ColumnData2_1=010000006400000065
+ColumnData2_2=020000006400000066
+View Active Events=False
+Include Guards=True
+Global=Show
+System1=Show
+Number of hidden Events=0
+[VariableWnd_0]
+WindowPlacement=2C0000000000000001000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF400100000C010000800200001802000007
+RealLink View=Off
+nofColumns=6
+ColumnData2_0=000000006400000064
+ColumnData2_1=010000006400000065
+ColumnData2_2=020000006400000066
+ColumnData2_3=030000006400000067
+ColumnData2_4=040000006400000068
+ColumnData2_5=050000006400000069
+Global=Show
+System1=Show
+Number of hidden Constants=0
+Number of hidden Enumerators=0
+Number of hidden Actions=0
+Number of hidden External Variables=0
+Number of hidden Internal Variables=0
+[ActionWnd_0]
+WindowPlacement=2C0000000000000001000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF4001000000000000800200000C010000ED
+RealLink View=Off
+nofColumns=2
+ColumnData2_0=000000006400000064
+ColumnData2_1=010000006400000065
+[SignalWnd_0]
+WindowPlacement=2C0000000000000001000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF4001000018020000800200002403000021
+RealLink View=Off
+[Watch Window]
+Number of items=0

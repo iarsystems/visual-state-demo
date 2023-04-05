@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Configurations CoderOptionsVersion="49" DocumenterOptionsVersion="3" HierarchicalCoderOptionsVersion="13" VerificatorOptionsVersion="2">
+
+  <Configuration name="Default">
+    <Tag name="CODER_CMDLINE" value="-variant#-api_type0#-readable1#-cppcode0#-cscode0#-jvcode0#-cspylink1#-generate-ew-dependencies0#-dry_run0#-generate_stubs0#-reallink0#-csourcefileextc#-cppsourcefileextcpp#-warnings_are_errors0#-warnings_affect_exit_code0#-no_warnings0#-include_excluded0#-force0#-path..\VS_coder\#-Rvscoder.cre#-projectheader$(PRJNAME).h#-projectsource$(PRJNAME).c#-userfileinclusion#-usevariant0#-rdfmO#-DO#-iev1#-iiv1#-funcexph0#-osm1#-useegti0#-gdef0#-gds0#-generatetimeandversion0#-useheap1#-translatecomments1#-autoentryfunction#-autoexitfunction#-tsemt0#-tvsvt0#-vsbooltypeint#-kw_context#-kw_prj_extvar#-kw_corelogic#-kw_guardexpr#-kw_actionexpr#-kw_runtimeinfo#-projprefix#-smpexpl0#-smpexplabs0#-smpforcestate0#-smpgetinputall0#-smpinstances0#-smpinquiry0#-smpmachine0#-smpname0#-smpnameabs0#-smpnextstatechg0#-smpstate0#-smpstateall0#-vsgetsignature1#-dlibbreakpoint0#-armsemihostingbreakpoint0#-suppress_cspylink_common_files0#-kw_rlpd#-userlkw0#-kw_rld#-kw_rlcd#-kw_rlec1#-typesstyle0#-typeheaderfile#-typeVS_BOOL=#-typeVS_CHAR=#-typeVS_UCHAR=#-typeVS_SCHAR=#-typeVS_UINT=#-typeVS_INT=#-typeVS_FLOAT=#-typeVS_DOUBLE=#-typeVS_VOIDPTR=#-typeVS_UINT8=#-typeVS_INT8=#-typeVS_UINT16=#-typeVS_INT16=#-typeVS_UINT32=#-typeVS_INT32=#-projnamespace#-projectpackage#-maximummisra1"/>
+    <Tag name="HCODER_CMDLINE" value=""/>
+    <System uid="4E978342-18F9-425B-B165-53627B40F46A">
+      <Tag name="CODER_CMDLINE" value="-usepop1#-spath#-H$(SYSNAME).h#-S$(SYSNAME).java#-sysrdfmO#-sysdwO#-constcml1#-constguardfpt1#-constactionfpt1#-og0#-oa0#-useguardtypecast1#-useautovariables1#-omitcontradictiontests0#-keywordheaderfile#-wrapperfunctionkeyword#-kw_sys_extvar#-kw_intvar#-kw_dbdata#-txte0#-sne1#-txts0#-sns0#-txta0#-snm0#-useapiprefix1#-apiprefix$(SYSNAME)#-semexpl0#-semexplabs0#-semforcestate0#-semgetinputall0#-seminquiry0#-semmachine0#-semname0#-semnameabs0#-semnextstatechg0#-semsignalqueueinfo0#-semstate0#-semstateall0#-vsdeductex0#-vselementexpl1#-vselementname1#-vsinitall1#-vsgetcurrentstatetree0#-vsgetmaxcurrentstatetree0#-classname$(SYSNAME)#-removevsnofmacros1#-namespace#-splitreadable0#-fullinstrumentation1#-usesamplingbuffer1#-uselivesamplingbuffer1#-samplingbuffersize32#-targetbreakpoints0#-userecordingbuffer1#-recordingbuffersize1024"/>
+      <Tag name="HCODER_CMDLINE" value=""/>
+      <Tag name="VERIFICATOR_CMDLINE" value=""/>
+    </System>
+  </Configuration>
+
+</Configurations>

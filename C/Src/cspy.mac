@@ -1,0 +1,27 @@
+/**************************************************
+ *
+ * Copyright (c) 2023 IAR Systems AB.
+ *
+ * See LICENSE for detailed license information.
+ *
+ **************************************************/
+
+__var _SysTick_Interrupt;
+
+execUserSetup() {
+  _SysTick_Interrupt = __orderInterrupt("SysTick", 200, 25, 0, 0, 0, 100);
+}
+
+pressButton1() {
+  __message "Button 1 was pressed...";
+  BUTTON_int = 1u;
+}
+
+pressButton2() {
+  __message "Button 2 was pressed...";
+  BUTTON_int = 2u;
+}
+
+execUserExit() {
+  __cancelInterrupt( _SysTick_Interrupt );
+}
