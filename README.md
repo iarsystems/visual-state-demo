@@ -1,4 +1,4 @@
-# Getting into the right state with IAR Visual State
+# Graphically design state machines and generate source code with IAR Visual State
 
 [IAR Visual State](https://iar.com/vs) is a solution for designing, simulating and verifying state machines. Beyond that, it can generate `C`, `C++`, `C#` or `Java` code correspondent to the system design. Relying on a standardized API, projects powered by IAR Visual State scale with robustness.
 
@@ -12,7 +12,7 @@ In this repository you will find a ready-to-use project example. Demonstration a
 
 
 ## Running the examples
-The IAR Visual State project designs a finite-state machine (FSM) that models three colored LEDs similar to a traffic lights device behavior. There are two modes of operation: `<full>`, which includes an additional state named "State_all" where "Red", "Yellow" and "Green" are all turned on, or `<reduced>` where transitions from/to "State_all" are simply excluded.
+The IAR Visual State project designs a finite-state machine (FSM) that models a simplified traffic lights device. There are two modes of operation: `<full>`, which includes an additional state named "State_all" where "Red", "Yellow" and "Green" are all turned on, or `<reduced>` where transitions from/to "State_all" are simply excluded.
 
 ![image](https://user-images.githubusercontent.com/54443595/229726371-7de85b14-b0fc-4dd3-939c-28d01d7335ea.png)
 
@@ -36,7 +36,7 @@ To get started, clone this repository.
 
 5. Choose __Debug__ → __Graphical Animation__.
 
-6. In the __Simulator__ window, under the __Events__ tab, click on the events `eButton1()`, `eButton2()` and `SE_RESET()` to generate events that will update the graphical animation accordingly. The `SE_RESET()` is the first event and it happens in the initial state.
+6. In the __Simulator__ window, under the __Events__ tab, click on the events `SE_RESET()`, `eButton1()` and `eButton2()` to generate events that will update the graphical animation accordingly.
 
 ![vs-simulator](https://user-images.githubusercontent.com/54443595/230769138-f7a20fbc-e57e-4e7b-86a5-de4b4dd2d59b.gif)
 
