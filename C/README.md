@@ -32,12 +32,4 @@ The Visual State project is set to generate C code (with C-SPY Link support) by 
 9. Press <kbd>F5</kbd> to resume the program execution.
 10. In the __Macros Quicklaunch__ window, double-click on the __Recalculate icon__ for executing the associated C-SPY macros that will generate the events.
 
-
-https://user-images.githubusercontent.com/54443595/229807676-2da79aca-99e3-483a-8e37-587c0903f7ba.mp4
-
-
-
-
-
-
-
+https://github.com/IARSystems/visual-state-demo/assets/54443595/e44668fc-0462-4250-b514-4516bb3a057c
