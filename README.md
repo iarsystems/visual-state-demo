@@ -8,7 +8,7 @@ In this repository you will find a ready-to-use project example. Demonstration a
 
 
 ## Pre-requisites
-- IAR Visual State V11.2.1+ ([14-day trial version available](https://www.iar.com/products/iar-visual-state/iar-visual-state-free-trial/))
+- IAR Visual State V11.2.1+ ([14-day trial version available](https://www.iar.com/products/free-trials/))
 
 
 ## Running the examples
