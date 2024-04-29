@@ -4,7 +4,8 @@
 
 In this repository you will find a ready-to-use project example. Demonstration applications written in the supported languages will take advantage of the same design, relying on the code generation capabilities of IAR Visual State. 
 
->__Note__ This simple example was chosen to make it easy to explore the solution's capabilities. Visit the IAR Visual State **Information Center**, available from its **Help** menu, for slightly more complex examples.
+>[!NOTE]
+>This simple example was chosen to make it easy to explore the solution's capabilities. Visit the IAR Visual State **Information Center**, available from its **Help** menu, for slightly more complex examples.
 
 
 ## Pre-requisites
@@ -16,7 +17,8 @@ The IAR Visual State project designs a finite-state machine (FSM) that models a 
 
 ![image](https://user-images.githubusercontent.com/54443595/229726371-7de85b14-b0fc-4dd3-939c-28d01d7335ea.png)
 
->__Note__ IAR provides a [step-by-step guide](https://wwwfiles.iar.com/vs/StepByStep.pdf) on how to create an entire FSM.
+>[!NOTE]
+>IAR provides a [step-by-step guide](https://wwwfiles.iar.com/vs/StepByStep.pdf) on how to create an entire FSM.
 
 
 To get started, clone this repository.
@@ -30,7 +32,8 @@ To get started, clone this repository.
 
 3. Verify the system: __Project__ → __Verify System__ (<kbd>F10</kbd>).
 
->__Note__ Using the `<<Complete model>>` will result in ambiguous transitions when verifying the system.
+>[!NOTE]
+>Using the `<<Complete model>>` will result in ambiguous transitions when verifying the system.
 
 4. Simulate the system: __Project__ → __Simulate Project__ (<kbd>F8</kbd>)
 
