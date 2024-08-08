@@ -1,11 +1,11 @@
 # Graphically design state machines and generate source code with IAR Visual State
 
-[IAR Visual State](https://iar.com/vs) is a solution for designing, simulating and verifying state machines. Beyond that, it can generate `C`, `C++`, `C#` or `Java` code correspondent to the system design. Relying on a standardized API, projects powered by IAR Visual State scale with robustness.
+[IAR Visual State](https://iar.com/vs) is a comprehensive solution for designing, simulating and verifying state machines. It goes beyond design by generating`C`, `C++`, `C#` or `Java` code corresponding to the system design. With its standardized API, projects powered by IAR Visual State achieve robustness and scalability.
 
-In this repository you will find a ready-to-use project example. Demonstration applications written in the supported languages will take advantage of the same design, relying on the code generation capabilities of IAR Visual State. 
+In this repository you will find a ready-to-use project example. Demonstration applications written in the supported languages leverage the same design, utilizing the code generation capabilities of IAR Visual State.
 
 >[!NOTE]
->This simple example was chosen to make it easy to explore the solution's capabilities. Visit the IAR Visual State **Information Center**, available from its **Help** menu, for slightly more complex examples.
+>This simple example was chosen to make it easy to explore the solution's capabilities in different languages. Visit the IAR Visual State **Information Center**, available from its **Help** menu, for slightly more complex examples.
 
 
 ## Pre-requisites
@@ -52,4 +52,22 @@ After ensuring the simulated system do not show flaws, proceed to the demo appli
 - [Java](Java)
 
 ## Summary
-IAR Visual State is a powerful state machine design tool that you can try right now. Its standardized API brings robustness and simplifies implementation for one or more target platforms.
+IAR Visual State is a powerful state machine design tool available for immediate use. Its standardized API enhances robustness and simplifies implementation across one or more target platforms.
+
+[__` Follow us `__](https://github.com/iarsystems) on GitHub to get updates about tutorials like this and more.
+
+
+## Issues
+For technical support contact [IAR Customer Support][url-iar-customer-support].
+
+For questions or suggestions related to this tutorial: try the [wiki][url-repo-wiki] or check [earlier issues][url-repo-issue-old]. If those don't help, create a [new issue][url-repo-issue-new] with detailed information.
+
+
+<!--links-->
+[url-iar-customer-support]: https://iar.my.site.com/mypages/s/contactsupport
+
+[url-repo-wiki]: https://github.com/IARSystems/visual-state-demo/wiki
+[url-repo-issue-new]: https://github.com/IARSystems/visual-state-demo/issues/new
+[url-repo-issue-old]: https://github.com/IARSystems/visual-state-demo/issues?q=is%3Aissue+is%3Aopen%7Cclosed
+
+
