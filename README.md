@@ -1,6 +1,6 @@
 # Graphically design state machines and generate source code with IAR Visual State
 
-[IAR Visual State](https://iar.com/vs) is a comprehensive solution for designing, simulating and verifying state machines. It goes beyond design by generating`C`, `C++`, `C#` or `Java` code corresponding to the system design. With its standardized API, projects powered by IAR Visual State achieve robustness and scalability.
+[IAR Visual State](https://iar.com/visualstate) is a comprehensive solution for designing, simulating and verifying state machines. It goes beyond design by generating`C`, `C++`, `C#` or `Java` code corresponding to the system design. With its standardized API, projects powered by IAR Visual State achieve robustness and scalability.
 
 In this repository you will find a ready-to-use project example. Demonstration applications written in the supported languages leverage the same design, utilizing the code generation capabilities of IAR Visual State.
 
