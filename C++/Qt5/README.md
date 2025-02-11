@@ -25,8 +25,9 @@ make
 - To build the application from QtCreator
 1. Open the project `qt5-vs-demo.pro` in QtCreator
 2. Configure the project for the kit (e.g. "Desktop")
+![Screenshot_20250211_113805](https://github.com/user-attachments/assets/c5d394e2-9be9-4832-a807-6c61740122aa)
+
 3. Select __Build__ → __Build All Projects__
 4. Select __Debug__ → __Debug Current Project__ (<kbd>F5</kbd>)
 
-```
-
+![Screenshot_20250211_115239](https://github.com/user-attachments/assets/4a8079db-b2f8-4a72-a8e7-562829754414)
