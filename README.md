@@ -47,7 +47,7 @@ To get started, clone this repository.
 After ensuring the simulated system do not show flaws, proceed to the demo application implementation in the desired language:
 
 - [C](C)
-- [C#](CSharp)
+- [C#](C#)
 - [C++](C++)
 - [Java](Java)
 
@@ -66,8 +66,8 @@ For questions or suggestions related to this tutorial: try the [wiki][url-repo-w
 <!--links-->
 [url-iar-customer-support]: https://iar.my.site.com/mypages/s/contactsupport
 
-[url-repo-wiki]: https://github.com/IARSystems/visual-state-demo/wiki
-[url-repo-issue-new]: https://github.com/IARSystems/visual-state-demo/issues/new
-[url-repo-issue-old]: https://github.com/IARSystems/visual-state-demo/issues?q=is%3Aissue+is%3Aopen%7Cclosed
+[url-repo-wiki]: https://github.com/iarsystems/visual-state-demo/wiki
+[url-repo-issue-new]: https://github.com/iarsystems/visual-state-demo/issues/new
+[url-repo-issue-old]: https://github.com/iarsystems/visual-state-demo/issues?q=is%3Aissue+is%3Aopen%7Cclosed
 
 

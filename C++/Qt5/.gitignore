@@ -1,0 +1,7 @@
+*.o
+qt5-vs-demo
+.qtc_clangd/
+.qmake.stash
+*.pro.user
+qrc_resources.cpp
+Makefile
